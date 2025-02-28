@@ -1,0 +1,41 @@
+#section1 {
+    width: 30%;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid #000000;
+    margin-left: 250px;
+}
+
+#section2 {
+    float: right;
+    width: 30%;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    margin-right: 250px;
+}
+
+#section3 {
+    width: 30%;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    margin-left: 250px;
+}
+
+#section4 {
+    float: right;
+    width: 30%;
+    height: 100px;
+    background-color: aqua;
+    border: 2px solid black;
+    margin-right: 250px;
+}
+
+h3 {
+    color: rgb(251, 12, 12);
+}
+
+label{
+    color: red;
+}
